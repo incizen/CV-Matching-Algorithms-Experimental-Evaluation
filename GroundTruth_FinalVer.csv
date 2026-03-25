@@ -1,0 +1,609 @@
+﻿job_id,job_text,resume_index,resume_domain,resume_preview,relevant,judgeable,labeled
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",4,Banking,"M.S. Computer Engineering, University of Missouri–Columbia (2016), GPA 3.46; Graduate Research Assistant. B.S. Finance & Banking, University of Missouri–Columbia (2013), Minor in Mathematics; VP, Chinese Business Student Association. C/C++, Python, MATLAB, SQL, R, LUA, VBA; ML (supervised/unsupervis",1,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",19,Banking,"MBA, Human Resource Management – University of Phoenix; BBA, Computer Information Systems – Northeast Louisiana University; AAS, Process Technology – Louisiana Delta Community College. SAP, Lotus Notes, MS Access/Excel/Word/PowerPoint, reporting, automation testing, data tracking, staff scheduling,",0,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",48,Banking,"MBA, St. Mary’s College of California (2012). BS, Management Science, University of California (2004). BS, General Biology, University of California (2004). FP&A, P&L/BS forecasting, Essbase, Excel/VBA, SQL, Access, budgeting, variance/trend analysis, risk/pricing analytics, automation, stress testi",0,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",187,TEACHER,"Bachelor of Science in Reading, Delta State University (2006); concentrations in English and Social Studies. Mississippi Teaching Certificate with Elementary Education endorsement; renewed 2011. Teacher of the Year (2009); strengths in lesson planning, classroom management, differentiation, learning",0,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",235,Apparel,"B.S. Metallurgy & Materials Engineering, Colorado School of Mines (2007). Six Sigma Green Belt, Lean Manufacturing, SPC, DOE, Tableau, MS Office, PDM, and Hyperion. Expert in material analysis, manufacturing processes, and QA. Saved $800K/year via scrap reduction; key in Nike Apparel material proces",0,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",249,Apparel,"B.S. in Information Systems, Northeastern University. Additional coursework: SAS Business Intelligence Tools (SAS Training Center, NY); Windows NT Administration (New Horizons, MA); Solaris Fundamentals (Sun Microsystems); Software Design & Development and Emerging Technologies (Boston University/Ma",0,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",252,Research Assistant,"M.Sc. in CSE (2023–2026) and B.Sc. in CSE (2017–2022), Chittagong University of Engineering & Technology Skilled in Machine Learning, Artificial Intelligence, and Academic Research. Reviewer (BIM 2025), Participant (ICCCT 2025). Published IEEE papers: Moonshot (academic integrity & wellbeing app) an",0,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",254,Research Assistant,"B.Sc. in CSE, East West University (2017–2022); specialized in ML, NLP, Data Mining, and Computer Vision; thesis on Bengali social media sentiment classification Expert in Python, SQL, C++, ML/DL (PyTorch, TensorFlow), NLP, CV, Explainable AI. Published 15+ IEEE papers; 6 Best Paper Awards (2023–24)",1,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",256,Research Assistant,"M.Sc. in Computer Science, University of Manitoba (2025–27); B.Sc. in CSE, Chittagong University of Engineering & Technology (CGPA 3.91/4.0, 2nd position) Skilled in ReactJS, PHP, MySQL, TensorFlow, Keras, Scikit-learn. IEEE author — paper on Deep Learning–based cricket video action categorization (",0,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",261,Research Assistant,"B.Sc. in Software Engineering, Shahjalal University of Science & Technology (2018–2023), CGPA 3.63/4.0; HSC, Notre Dame College (2017), GPA 5.00 Skilled in Java, Python, Django, Spring, SQL, Vue, Angular, Docker, CI/CD, RabbitMQ. Published “Verse-Based Emotion Analysis of Bengali Music” (IJCDS 2024)",1,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",275,Research Assistant,"Ph.D. in Computer Science, Univ. of Texas at El Paso (2025–); B.Sc. in CSE, Shahjalal Univ. of Science & Tech (2019–24, CGPA 3.81/4, Distinction) Skilled in ML, AI, ReactJS, Python, TensorFlow, and QA. Published “Road Object Detection for Visually Impaired People in Bangladesh” (Springer, 2024). Ran",1,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",280,Research Assistant,"M.Sc. in Food Processing & Preservation (2025–), B.Eng. in Food & Process Engineering, Hajee Mohammad Danesh Science & Tech University (1st Class, 2019–24) Skilled in Food Microbiology, Product Development, QA/QC, Machine Learning, and AI in food systems. Research in microbial safety and process opt",0,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",287,Research Assistant,"B.Arch in Architecture, Chittagong Univ. of Engineering & Technology (2018–24); thesis on “Children Development Center” focusing on design for rehabilitation and well-being Skilled in Environmental & Architectural Design, SPSS, AutoCAD, 3D Visualization, and Data Analysis. Research on thermal percep",0,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",291,Research Assistant,"M.Sc. in EEE (2025–26) & B.Sc. in EEE (2019–24), Chittagong Univ. of Engineering & Technology; coursework in photonics, COMSOL & signal processing Skilled in ML, signal processing, COMSOL, Lumerical FDTD, SQL & data analysis. Research on AI-driven cardiac detection & solar energy optimization. Champ",1,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",295,Research Assistant,"B.Sc. in Computer Science & Engineering, East West University (2020–25, First Class); HSC in Science, Satkhira Govt. College (2019) Skilled in Python, TensorFlow, PyTorch, Hugging Face, NLP, ML, DL, RAG, and Data Analysis. Developed BanglaFinGPT (finance LLM). Best Paper, ICDMIS 2024 (Springer LNNS)",0,True,True
+custom_0,"Looking for a data analyst with Python, SQL, data visualization,
+machine learning, and statistics experience.",298,Research Assistant,"B.Sc. in Electronics & Telecommunication Engineering (CGPA 3.99/4.0), Chittagong Univ. of Engineering & Technology (2017–22); HSC, RAJUK Uttara Model College (GPA 5.00) Skilled in Deep Learning, CNN, Computer Vision, Medical Image Analysis, Python, NI Multisim, Git, and Data Structures. Published in",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",5,Banking,"High School Diploma (Math), University of California, Riverside — United States. Microsoft Excel/Word/Outlook; customer engagement; prospecting and sourcing small-business clients; risk/loss mitigation; cash handling; coaching/mentoring; bilingual English–Spanish (reading/writing); Notary Public. Re",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",6,Banking,"BS, Electrical & Computer Engineering—Univ. of Michigan. Certificate, Project Management—UC Irvine (2015). Sales/loan origination, consultative selling, branch ops/compliance, training/coaching, audits/reconcilements. Licensed Financial Specialist (2008–2010). Windsor Capital Top/Platinum/Gold/Silve",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",34,Banking,"B.E., Electronics & Communication, Easwari Engineering College (2010). Certifications/Training: ITIL ASM Basic (2011, RTB Business Academy); Windows & Web App Development using .NET (2010, NIIT). C#/.NET 3.5, ASP.NET 2.0/3.5, PL/SQL, SQL Server 2008, Oracle 9i, HTML4/CSS2/JS, AJAX. Tools: BusinessOb",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",49,Banking,"MBA, UCLA Anderson (2002); BE, Thapar Univ. (1993); MIT (2016, exec/advanced tech coursework). Lead 50+ across 25 apps; Agile/Scrum rollout; Jira at scale; APM (Splunk/AppDynamics) MTTR?; AWS cloud-native (12-factor, EBS, RDS, SNS, Lambdas); DevOps/CI/CD (Git, Jenkins, SonarQube); DevSecOps (Veracod",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",152,TEACHER,"M.Ed., Teaching—Virginia Commonwealth University (2002); B.S., Psychology—Virginia Commonwealth University (2002, Cum Laude); A.A., Child Development—De Anza College (1998, Cum Laude). Virginia postgraduate professional license, curriculum development, long-term planning, critical thinking, mediatio",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",155,TEACHER,"Elementary Teaching Credential, University of Redlands (2008); B.A., Liberal Arts, California Baptist University (2006). Student-centered instruction, differentiated small-group learning (System 44), positive behavior reinforcement, strong classroom management, technology integration (iPads), organi",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",175,TEACHER,"M.S. Education — Liberty University (2017); B.S. Behavioral Science — Bluefield College (2009). Middle school ELA & Social Studies (U.S. History, Civics, Geography); curriculum design; assessment prep (Stanford, SOL); classroom management; IEP process knowledge; attendance/grade/records management;",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",183,TEACHER,"Associate of Arts — Business, Jones International University. Fifteen years of client-facing experience spanning customer service, telesales, account management, and training. Strengths include conflict resolution, active listening, problem solving, cash handling, inventory control, invoicing, datab",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",188,TEACHER,"Master’s in Education, Government College of Education (1992). Bachelor of Education, Government College of Education (1990). Bachelor of Science in Biology & Chemistry, University of Karachi (1986). Teacher of the Year (2009). Strengths in lesson planning, classroom management, differentiation, lea",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",190,TEACHER,"M.A. (Guidance & Counseling), University of Texas–Pan American (2002). B.A. in Psychology, University of Texas–Pan American (1996). Texas certifications: School Counselor PK–12 (2002), Secondary Spanish 6–12 (2004), Bilingual/ESL–Spanish PK–6 (1998). Seventeen years teaching and counseling experienc",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",198,TEACHER,"B.S. Education, University of Central Missouri (in progress); A.A., Metropolitan Community College (2012); HS Diploma (2009). Tutoring, lesson facilitation, small-group instruction, MS Office, organized and punctual; 100+ hours classroom fieldwork (Algebra I, grades 6–8); created engaging math activ",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",216,Apparel,"Associate in Networking Tech, Bucks County CC 2003; MSCE Prep Cert, New Wave Tech 2003. PCI/SOX audits, IT governance, SAP controls, COBIT, ITIL, CSM, CISA, MCP, vendor negotiation saving $9.2M. 15+ yrs IT; auditor, analyst, and support roles; managed audits, compliance, procurement, licensing, and",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",258,Research Assistant,"B.Sc. in Computer Science & Engineering, Bangladesh University of Engineering and Technology (2017–2022), CGPA 3.80/4.00, Major CGPA 3.95/4.00 Skilled in Python, C++, TypeScript, FastAPI, React, Node, Docker, Kubernetes, GCP, Terraform, CI/CD. Top 4% Codeforces (900+ solves). 9th in ICPC Asia Dhaka",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",282,Research Assistant,"B.Sc. in Computer Science & Engineering, BRAC University (2019–23); HSC, Notre Dame College (2018). Certified in CI/CD for ML and Docker (DataCamp, 2024) Skilled in ML, DL, Computer Vision, MLOps, Docker, and QA automation. Published in Nature Scientific Reports (VICReg, 2024) and ICECCME 2023 (Corn",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",283,Research Assistant,"M.S. in Computer Science, Univ. of Nebraska at Omaha (2025–27); B.Sc. in CSE, Chittagong Univ. of Engineering & Technology (2019–24) Skilled in ML, DL, Cloud Computing, MERN Stack, React, Git, and Data Analysis. 3-time ICPC Regionalist, ICPC AlgoQueen Silver Medalist (Global 9th). Certified in ML (C",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",286,Research Assistant,"B.Sc. in CSE, United International Univ. (CGPA 3.99/4.0, 2020–24); Study in Canada Scholar, Concordia Univ. of Edmonton (Winter 2022, GPA 3.8) Skilled in AI, ML, CV, Research Design, Technical Writing, and Svelte-Kit. Publications in IEEE Access (EEG Motor Imagery, 2025), Elsevier CBM (GBDTSVM model",0,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",288,Research Assistant,"Ph.D. in Computer Science, Univ. of Kentucky (2025–29); M.Eng. in CSE, BRAC Univ. (2018–21) Skilled in Go, Python, Java, Node.js, Django, React, GCP, Kubernetes, and microservices. Certified Kubernetes App Developer (CNCF, 2024) and Google Widevine Partner (2024). Expertise in OTT, DRM, and scalable",1,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",297,Research Assistant,"M.Sc. in CSE (CGPA 3.97/4.0) & B.Sc. in CSE (CGPA 3.24/4.0), North South University Skilled in Cybersecurity, Cloud Computing (OCI), DevOps, Linux, NS-3, HELICS, and Blockchain. Certified Ethical Hacker (Master, CEH). Published 6 papers incl. IEEE ICCCNT 2024 (ML in AHU), ICSGSC 2024 (Smart Grid Sec",1,True,True
+dataset_0,"10 + Blockchain Nodes / Masternodes to set up *Requirements*
+
+We're looking for a long term collaboration with someone that has an experience in crypto, masternodes, nodes, validators etc. We need to set up:
+
+Kyber Network
+Nebulas
+SecretNetwork
+Tron
+Aion
+DeFiChain
+EOS
+TomoChain
+Elrond
+I",301,Research Assistant,"B.Sc. in Computer Science & Engineering (CGPA 3.75, Honors), Chittagong Univ. of Engineering & Technology (2019–24); Thesis: Bangla Text-to-Speech & Voice Cloning Skilled in Python, C++, TensorFlow, PyTorch, React, Node, MongoDB. Published in EMNLP 2023 (Best Paper), NAACL 2025, ECCE 2025, CLEF 2024",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",1,Banking,"High School Diploma, Federal Way Senior High School, United States (2010 Strong leadership, team management, and client relations abilities. Skilled in supervision, staff training, multitasking, and decision-making under pressure. Proficient in recruiting, sales growth strategies, performance planni",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",34,Banking,"B.E., Electronics & Communication, Easwari Engineering College (2010). Certifications/Training: ITIL ASM Basic (2011, RTB Business Academy); Windows & Web App Development using .NET (2010, NIIT). C#/.NET 3.5, ASP.NET 2.0/3.5, PL/SQL, SQL Server 2008, Oracle 9i, HTML4/CSS2/JS, AJAX. Tools: BusinessOb",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",41,Banking,"High School Diploma, Juan Pablo Duarte (2003). AS/400 admin; RPGLE/ILE, COBOL/400, CL/400; SQL/Query; QA tools; SharePoint/ClearQuest; ITIL; IPC (Incident/Problem/Change) processes; core banking security, backups, migration/upgrade; team leadership, budgeting, scheduling; implemented Fiserv core ban",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",49,Banking,"MBA, UCLA Anderson (2002); BE, Thapar Univ. (1993); MIT (2016, exec/advanced tech coursework). Lead 50+ across 25 apps; Agile/Scrum rollout; Jira at scale; APM (Splunk/AppDynamics) MTTR?; AWS cloud-native (12-factor, EBS, RDS, SNS, Lambdas); DevOps/CI/CD (Git, Jenkins, SonarQube); DevSecOps (Veracod",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",51,Finance,"Ph.D., Organizational Leadership — The Chicago School of Professional Psychology (2013); M.A., Industrial-Organizational Psychology — The Chicago School of Professional Psychology (2008); B.S., Psychology — Belmont University (2006). Leadership development, employee relations, training & facilitatio",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",172,TEACHER,"M.A. Education, The University of Texas (2002); B.A. Psychology & Government with Early Childhood Development/Child Psychology, The University of Texas (1998). Graduate Assistant in Education & Counseling; supported adult GED learners. Texas Teaching Certificate (EC endorsement); classroom managemen",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",183,TEACHER,"Associate of Arts — Business, Jones International University. Fifteen years of client-facing experience spanning customer service, telesales, account management, and training. Strengths include conflict resolution, active listening, problem solving, cash handling, inventory control, invoicing, datab",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",187,TEACHER,"Bachelor of Science in Reading, Delta State University (2006); concentrations in English and Social Studies. Mississippi Teaching Certificate with Elementary Education endorsement; renewed 2011. Teacher of the Year (2009); strengths in lesson planning, classroom management, differentiation, learning",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",188,TEACHER,"Master’s in Education, Government College of Education (1992). Bachelor of Education, Government College of Education (1990). Bachelor of Science in Biology & Chemistry, University of Karachi (1986). Teacher of the Year (2009). Strengths in lesson planning, classroom management, differentiation, lea",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",191,TEACHER,"M.A. in Math Education, Southwestern University; M.A. in Education, Philippine Normal University (2000); B.A. in Secondary Education—Mathematics, Cum Laude (1994); additional 30 graduate units in Math Education (Philippine Normal University). Certification: Maryland Teacher Certificate (APC), curren",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",237,Apparel,"A.A. Office Systems Technology, Horry Georgetown Technical College (2007); coursework in Office Administration and Patient Care, Central Carolina Technical College (1991). Customer service, merchandising, leadership, bookkeeping, cash management, AS/400, Excel, proofreading, medical terminology, off",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",249,Apparel,"B.S. in Information Systems, Northeastern University. Additional coursework: SAS Business Intelligence Tools (SAS Training Center, NY); Windows NT Administration (New Horizons, MA); Solaris Fundamentals (Sun Microsystems); Software Design & Development and Emerging Technologies (Boston University/Ma",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",251,Research Assistant,"B.Sc. in CSE, Chittagong University of Engineering & Technology (GPA 3.83/4, 7th position); HSC, Rajuk Uttara Model College (5.00/5.00); SSC, Uttara High School & College (5.00/5.00) Skilled in Python, C/C++, Java, ML/DL (TensorFlow, PyTorch), NLP; 800+ solved problems; published in EMNLP, NAACL, AC",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",257,Research Assistant,"B.Sc. in Computer Science & Engineering (2020–2025), Bangladesh; CGPA 3.43/4.0. Coursework: Software Engineering, System Analysis, Software Development Skilled in Figma, Adobe Creative Suite, Framer Motion, HTML, CSS, JavaScript. Expertise in UX research, prototyping, usability testing, and responsi",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",258,Research Assistant,"B.Sc. in Computer Science & Engineering, Bangladesh University of Engineering and Technology (2017–2022), CGPA 3.80/4.00, Major CGPA 3.95/4.00 Skilled in Python, C++, TypeScript, FastAPI, React, Node, Docker, Kubernetes, GCP, Terraform, CI/CD. Top 4% Codeforces (900+ solves). 9th in ICPC Asia Dhaka",1,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",261,Research Assistant,"B.Sc. in Software Engineering, Shahjalal University of Science & Technology (2018–2023), CGPA 3.63/4.0; HSC, Notre Dame College (2017), GPA 5.00 Skilled in Java, Python, Django, Spring, SQL, Vue, Angular, Docker, CI/CD, RabbitMQ. Published “Verse-Based Emotion Analysis of Bengali Music” (IJCDS 2024)",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",274,Research Assistant,"M.Sc. in Computer Science, Missouri Univ. of Science & Technology (2025–); B.Sc. in CSE, Khulna Univ. of Engineering & Technology (CGPA 3.51/4.0, 2022) Skilled in Java, Spring Boot, REST APIs, PostgreSQL, Python, and Deep Learning. Publications: Expert Systems with Applications (2022) on Bangla Sign",0,True,True
+dataset_24,"1.Middle/Senior Embedded C/C++ The CHI team is looking for a Middle/Senior Embedded C/C++
+
+About the client:
+The leading global supplier of embedded and connected software for the automotive industry.
+Client`s company develops the award-winning iGO Navigation Engine, which is flexible, designed fo",278,Research Assistant,"Ph.D. in Computer Science, Louisiana Tech University (2025–); B.Sc. in Computer Science & Engineering, Khulna Univ. of Engineering & Technology (2017–2023) Skilled in Android Development, .NET Framework, C#, and software design. Certified in C# Best Practices (LinkedIn, 2024). Experienced in mobile",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",0,Banking,"Master of Science in International Trade, Universidad Carlos III de Madrid, Spain (2014) — coursework in international trade policies and laws. Bachelor of Science in Business Administration and Direction, Universidad Pública de Navarra, Spain (2013) Skilled in cash handling, loan operations, financ",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",1,Banking,"High School Diploma, Federal Way Senior High School, United States (2010 Strong leadership, team management, and client relations abilities. Skilled in supervision, staff training, multitasking, and decision-making under pressure. Proficient in recruiting, sales growth strategies, performance planni",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",5,Banking,"High School Diploma (Math), University of California, Riverside — United States. Microsoft Excel/Word/Outlook; customer engagement; prospecting and sourcing small-business clients; risk/loss mitigation; cash handling; coaching/mentoring; bilingual English–Spanish (reading/writing); Notary Public. Re",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",19,Banking,"MBA, Human Resource Management – University of Phoenix; BBA, Computer Information Systems – Northeast Louisiana University; AAS, Process Technology – Louisiana Delta Community College. SAP, Lotus Notes, MS Access/Excel/Word/PowerPoint, reporting, automation testing, data tracking, staff scheduling,",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",24,Banking,"B.B.A., Business Finance & HR Management – University of Houston Downtown; A.A., General Studies – Houston Community College. Leadership, sales strategy, risk analysis, credit evaluation, business development, client relations, budgeting, and operations management. Certified in NMLS and Microsoft; t",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",34,Banking,"B.E., Electronics & Communication, Easwari Engineering College (2010). Certifications/Training: ITIL ASM Basic (2011, RTB Business Academy); Windows & Web App Development using .NET (2010, NIIT). C#/.NET 3.5, ASP.NET 2.0/3.5, PL/SQL, SQL Server 2008, Oracle 9i, HTML4/CSS2/JS, AJAX. Tools: BusinessOb",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",46,Banking,"M.S., Information Systems Management — Coleman University. MBA (Marketing) — Symbiosis International University. Partner/channel revenue growth; SaaS deployments/renewals; Oracle SQL, Salesforce, SAP R/3, SPSS, MS Excel/PowerPoint/Project, Visio; English/Spanish; multiple “Thanks” awards (HSBC); CSR",1,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",78,Finance,"Business/Marketing and Business Administration coursework—Coeur d’Alene High School (1985), North Idaho College (1987), Trend Business College (Honors). 15+ years in F&I; menu selling (VSC, maintenance, aftermarket); credit analysis, loan packaging, e-contracting, titling/DMV, compliance; CRM/databa",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",101,ACCOUNTANT,"BBA in Accountancy, Western Michigan University, Haworth College of Business (2010). School fund accounting; general ledger, bank recs, AP/AR; cash-flow forecasting; budget analysis/forecasting; governmental reporting; school bond experience; advanced computer skills and process improvement; CFO cer",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",136,ACCOUNTANT,"Computer Applications Specialist Certificate, Martinez Adult Education—Business Training Center (2008). AR/AP, cash applications (ACH/lockbox/CC/check), bank reconciliations, commissions reporting, credit checks, positive pay, inventory/sales reporting, customer service; QuickBooks Enterprise, MS Ex",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",144,ACCOUNTANT,"B.S., Business Administration—Accounting, University of Cincinnati (1974). Full-cycle accounting; job costing; GL, AP/AR, and reporting; Peachtree (Sage 50) implementation; systems setup (LAN, website); procedure improvement; CPA; stakeholder communication; small/medium-business support. Accountant",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",183,TEACHER,"Associate of Arts — Business, Jones International University. Fifteen years of client-facing experience spanning customer service, telesales, account management, and training. Strengths include conflict resolution, active listening, problem solving, cash handling, inventory control, invoicing, datab",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",188,TEACHER,"Master’s in Education, Government College of Education (1992). Bachelor of Education, Government College of Education (1990). Bachelor of Science in Biology & Chemistry, University of Karachi (1986). Teacher of the Year (2009). Strengths in lesson planning, classroom management, differentiation, lea",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",190,TEACHER,"M.A. (Guidance & Counseling), University of Texas–Pan American (2002). B.A. in Psychology, University of Texas–Pan American (1996). Texas certifications: School Counselor PK–12 (2002), Secondary Spanish 6–12 (2004), Bilingual/ESL–Spanish PK–6 (1998). Seventeen years teaching and counseling experienc",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",191,TEACHER,"M.A. in Math Education, Southwestern University; M.A. in Education, Philippine Normal University (2000); B.A. in Secondary Education—Mathematics, Cum Laude (1994); additional 30 graduate units in Math Education (Philippine Normal University). Certification: Maryland Teacher Certificate (APC), curren",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",218,Apparel,"BSBA in Marketing, University of Nebraska–Lincoln; strong foundation in sales, strategy, and market development. Sales strategy, business development, territory expansion, customer retention, leadership, MS Office. Golden Eagle & Service Star Award, North America MVP, 3-time 2K Club, proven record i",1,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",220,Apparel,"Certificate in Marketing, Temple Real Estate School; studied Marketing at Virginia Union University. Customer service, fashion sales, team training, workflow management, MS Office, Outlook, Excel, Word, inventory, cash handling, real estate, leadership, quality focus. Key Holder since 2012; trained",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",233,Apparel,"B.A. International Business, Salem College (2002); Advertising Degree, Catholic Univ. of Manizales, Colombia (1997). Franchise and retail management, marketing strategy, cost control, QuickBooks, Excel, bilingual (Spanish/English), leadership, training, and brand development. Reduced receivables by",0,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",234,Apparel,"B.S. Business Administration, Eastern Nazarene College; Certified Legal Assistant, Burdett Business School. Vendor compliance, QA, product integrity, call center and sales management, budgeting, billing, payroll, and leadership. Saved $400K annually through compliance policy; increased sales 325%; l",1,True,True
+dataset_6,"1806/03 Sales Manager **Requirements:**
+•?Experience in IT sales 1+ year
+•?Generic understanding of IT technologies and Software Development process
+•?Knowledge of sales techniques, sales markets
+•?Good communication and negotiation skills
+•?Fluent written and good spoken English
+
+**We offer:",249,Apparel,"B.S. in Information Systems, Northeastern University. Additional coursework: SAS Business Intelligence Tools (SAS Training Center, NY); Windows NT Administration (New Horizons, MA); Solaris Fundamentals (Sun Microsystems); Software Design & Development and Emerging Technologies (Boston University/Ma",1,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",1,Banking,"High School Diploma, Federal Way Senior High School, United States (2010 Strong leadership, team management, and client relations abilities. Skilled in supervision, staff training, multitasking, and decision-making under pressure. Proficient in recruiting, sales growth strategies, performance planni",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",34,Banking,"B.E., Electronics & Communication, Easwari Engineering College (2010). Certifications/Training: ITIL ASM Basic (2011, RTB Business Academy); Windows & Web App Development using .NET (2010, NIIT). C#/.NET 3.5, ASP.NET 2.0/3.5, PL/SQL, SQL Server 2008, Oracle 9i, HTML4/CSS2/JS, AJAX. Tools: BusinessOb",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",49,Banking,"MBA, UCLA Anderson (2002); BE, Thapar Univ. (1993); MIT (2016, exec/advanced tech coursework). Lead 50+ across 25 apps; Agile/Scrum rollout; Jira at scale; APM (Splunk/AppDynamics) MTTR?; AWS cloud-native (12-factor, EBS, RDS, SNS, Lambdas); DevOps/CI/CD (Git, Jenkins, SonarQube); DevSecOps (Veracod",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",101,ACCOUNTANT,"BBA in Accountancy, Western Michigan University, Haworth College of Business (2010). School fund accounting; general ledger, bank recs, AP/AR; cash-flow forecasting; budget analysis/forecasting; governmental reporting; school bond experience; advanced computer skills and process improvement; CFO cer",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",183,TEACHER,"Associate of Arts — Business, Jones International University. Fifteen years of client-facing experience spanning customer service, telesales, account management, and training. Strengths include conflict resolution, active listening, problem solving, cash handling, inventory control, invoicing, datab",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",184,TEACHER,"Master of Science (Microbiology), Universidad Austral de Chile (2008); Bachelor-level studies in Microbiology, Universidad de Pamplona (1992–1999); Internal Quality Auditor, ISO 9001:2000 (120 hrs); Graduate training in Competency-based Curriculum Development, UDES (2010). Specialist in food protect",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",187,TEACHER,"Bachelor of Science in Reading, Delta State University (2006); concentrations in English and Social Studies. Mississippi Teaching Certificate with Elementary Education endorsement; renewed 2011. Teacher of the Year (2009); strengths in lesson planning, classroom management, differentiation, learning",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",188,TEACHER,"Master’s in Education, Government College of Education (1992). Bachelor of Education, Government College of Education (1990). Bachelor of Science in Biology & Chemistry, University of Karachi (1986). Teacher of the Year (2009). Strengths in lesson planning, classroom management, differentiation, lea",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",190,TEACHER,"M.A. (Guidance & Counseling), University of Texas–Pan American (2002). B.A. in Psychology, University of Texas–Pan American (1996). Texas certifications: School Counselor PK–12 (2002), Secondary Spanish 6–12 (2004), Bilingual/ESL–Spanish PK–6 (1998). Seventeen years teaching and counseling experienc",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",191,TEACHER,"M.A. in Math Education, Southwestern University; M.A. in Education, Philippine Normal University (2000); B.A. in Secondary Education—Mathematics, Cum Laude (1994); additional 30 graduate units in Math Education (Philippine Normal University). Certification: Maryland Teacher Certificate (APC), curren",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",227,Apparel,"B.A. International Studies, Queen’s University (2013). PR, influencer and event strategy; content creation; Adobe; analytics (Google Analytics, SEO, ROI); social platform management; press releases; product marketing; scaled IG from 180k?2.2M; currently oversee 6M+ followers; celebrity/stylist partn",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",237,Apparel,"A.A. Office Systems Technology, Horry Georgetown Technical College (2007); coursework in Office Administration and Patient Care, Central Carolina Technical College (1991). Customer service, merchandising, leadership, bookkeeping, cash management, AS/400, Excel, proofreading, medical terminology, off",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",243,Apparel,"B.F.A. Industrial Design, College of Creative Studies Detroit (GPA 3.36); Summer Courses in Design, Monroe Community College Rochester (GPA 3.6). Product development, 3D modeling, concept sketches, apparel design, prototype creation, project management, Rhino, Alias, Hypershot, Keyshot, Adobe Photos",1,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",256,Research Assistant,"M.Sc. in Computer Science, University of Manitoba (2025–27); B.Sc. in CSE, Chittagong University of Engineering & Technology (CGPA 3.91/4.0, 2nd position) Skilled in ReactJS, PHP, MySQL, TensorFlow, Keras, Scikit-learn. IEEE author — paper on Deep Learning–based cricket video action categorization (",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",257,Research Assistant,"B.Sc. in Computer Science & Engineering (2020–2025), Bangladesh; CGPA 3.43/4.0. Coursework: Software Engineering, System Analysis, Software Development Skilled in Figma, Adobe Creative Suite, Framer Motion, HTML, CSS, JavaScript. Expertise in UX research, prototyping, usability testing, and responsi",1,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",261,Research Assistant,"B.Sc. in Software Engineering, Shahjalal University of Science & Technology (2018–2023), CGPA 3.63/4.0; HSC, Notre Dame College (2017), GPA 5.00 Skilled in Java, Python, Django, Spring, SQL, Vue, Angular, Docker, CI/CD, RabbitMQ. Published “Verse-Based Emotion Analysis of Bengali Music” (IJCDS 2024)",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",264,Research Assistant,"PhD Student in Mechanical & Robotics Engineering, University of Toronto (2024–28); MSc in Neuroscience, Carleton University (2022–24, GPA 3.8) Skilled in Robotics, Neuroscience, Project Mgmt, User Experience Design, Data Analysis, AI, Jupyter. IBET Momentum Fellow, Junior Fellow at Massey College. W",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",274,Research Assistant,"M.Sc. in Computer Science, Missouri Univ. of Science & Technology (2025–); B.Sc. in CSE, Khulna Univ. of Engineering & Technology (CGPA 3.51/4.0, 2022) Skilled in Java, Spring Boot, REST APIs, PostgreSQL, Python, and Deep Learning. Publications: Expert Systems with Applications (2022) on Bangla Sign",0,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",287,Research Assistant,"B.Arch in Architecture, Chittagong Univ. of Engineering & Technology (2018–24); thesis on “Children Development Center” focusing on design for rehabilitation and well-being Skilled in Environmental & Architectural Design, SPSS, AutoCAD, 3D Visualization, and Data Analysis. Research on thermal percep",1,True,True
+dataset_82,"2D-, 3D-Animator position Onlyplay is a fast-growing gaming product development company. Our team develops high-quality games to launch them on popular platforms.
+
+We are inspired by new ideas and bring trends to the gaming world. For the coming years, we face serious goals and many interesting ta",290,Research Assistant,"B.Eng. in Mechanical Engineering, Manipal International University (CGPA 3.30/4.0, 2015–20); HSC, Hazi Muhammad Mohsin College (GPA 5.00, 2012) Skilled in SolidWorks, Magmasoft, Mold Design, Product Simulation, and Quality Management. Certified SolidWorks Professional in Mold Making, Sheet Metal, Su",0,True,True
