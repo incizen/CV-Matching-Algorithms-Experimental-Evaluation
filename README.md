@@ -12,9 +12,10 @@ There are 3 pipelines for 3 different algortithms used for comparison:
 ## Structure
 - EvaluationMetrics.ipynb → Main notebook for running evaluation
 - Evaluation_summary.csv → Final results (MRR, precision and Hit Rate.)
-- GroundTruth_FinalVer.csv → Manually labeled
+- GroundTruth_FinalVer.csv → Cleaned and manually labeled 
 - TF_IDF_and_Cosine_Similarity.ipynb, Sentence_BERT_(SBERT).ipynb, BM25.ipynb → Testing Pipelines
 - TF-IDF_TestingResults.csv, BM25_Results.csv, SBERT_Results.csv → Ranking output results from the pipelines
+- Relevance.ipynb → Putting together the ground truth spreadsheet for labeling.
 
 ## Requirements 
 - Python 3.9+
